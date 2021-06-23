@@ -1,0 +1,1 @@
+Current temperature is: 28.29 deg C
